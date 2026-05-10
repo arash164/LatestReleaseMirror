@@ -1,5 +1,8 @@
-# See 'repos.txt.example' file
+# repos.txt.example – copy to repos.txt and edit
 
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
+
+# 1. No filter – keep all assets from the release
+localsend/localsend/releases/tag/v1.17.0
 
