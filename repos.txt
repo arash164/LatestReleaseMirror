@@ -4,5 +4,5 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 # 1. No filter – keep all assets from the release
-localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.zip
+localsend/localsend/LocalSend-1.17.0-windows-x86-64.zip
 
