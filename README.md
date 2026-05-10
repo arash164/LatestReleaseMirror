@@ -157,5 +157,51 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="localsend--localsend"></div>
 
+### localsend--localsend
+
+🔗 [source](https://github.com/localsend/localsend) – [<code><small>v1.17.0</small></code>](https://github.com/localsend/localsend/releases/tag/v1.17.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `LocalSend-1.17.0.dmg` | 30.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0.dmg) |
+| `LocalSend-1.17.0-android-arm32v7.apk` | 16.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-android-arm32v7.apk) |
+| `LocalSend-1.17.0-android-arm64v8.apk` | 16.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-android-arm64v8.apk) |
+| `LocalSend-1.17.0-android-google-play.apk` | 40.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-android-google-play.apk) |
+| `LocalSend-1.17.0-android-x64.apk` | 16.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-android-x64.apk) |
+| `LocalSend-1.17.0-linux-arm-64.deb` | 10.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-arm-64.deb) |
+| `LocalSend-1.17.0-linux-arm-64.tar.gz` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-arm-64.tar.gz) |
+| `LocalSend-1.17.0-linux-x86-64.AppImage` | 47.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-x86-64.AppImage) |
+| `LocalSend-1.17.0-linux-x86-64.deb` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-x86-64.deb) |
+| `LocalSend-1.17.0-linux-x86-64.tar.gz` | 15.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-linux-x86-64.tar.gz) |
+| `LocalSend-1.17.0-windows-x86-64.exe` | 14.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-windows-x86-64.exe) |
+| `LocalSend-1.17.0-windows-x86-64.zip` | 17.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/localsend/localsend/LocalSend-1.17.0-windows-x86-64.zip) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.20</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.20)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.20.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.20.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.20.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.20.apk) |
+| `mhrv-rs-android-universal-v1.9.20.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.20.apk) |
+| `mhrv-rs-android-x86-v1.9.20.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.20.apk) |
+| `mhrv-rs-android-x86_64-v1.9.20.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.20.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arash164/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
